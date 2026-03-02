@@ -6,7 +6,7 @@ Ewentualne potrzebne dane wejściowe i inne pomoce znajdą się w tym repozytori
 
 ## lista notatników z ćwiczeniami
 
-1. [lab nr 1](https://i.ytimg.com/vi/cumlCf6kqyY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAsJs4G8EOq2QYLgZP_AHzUT5YpjA)
+1. [lab nr 1](https://colab.research.google.com/drive/1NZBJBBKIgQuTTJNakfNW9qWVFg42juL8?usp=sharing)
 
 1. [lab nr 2](https://i.ytimg.com/vi/cumlCf6kqyY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAsJs4G8EOq2QYLgZP_AHzUT5YpjA)
 
