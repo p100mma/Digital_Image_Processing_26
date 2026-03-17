@@ -10,7 +10,7 @@ Ewentualne potrzebne dane wejściowe i inne pomoce znajdą się w tym repozytori
 
 1. [lab nr 2](https://colab.research.google.com/drive/1-r8NkKWNTTWJIPDELLhZpVyQXiyYgqF0?usp=sharing)
 
-1. [lab nr 3](https://i.ytimg.com/vi/cumlCf6kqyY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAsJs4G8EOq2QYLgZP_AHzUT5YpjA)
+1. [lab nr 3](https://colab.research.google.com/drive/1w5f52GoLMU-sCxd9OAuCiM0fNJMcHlrg?usp=sharing)
 
 1. [lab nr 4-5](https://i.ytimg.com/vi/cumlCf6kqyY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAsJs4G8EOq2QYLgZP_AHzUT5YpjA)
 
