@@ -16,7 +16,7 @@ Ewentualne potrzebne dane wejściowe i inne pomoce znajdą się w tym repozytori
 
 1. [lab nr 7](https://colab.research.google.com/drive/18BWTKqmCqP-T4w42OJmoyUraeGV7NQRM?usp=sharing)
 
-1. [lab nr 8](https://i.ytimg.com/vi/cumlCf6kqyY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAsJs4G8EOq2QYLgZP_AHzUT5YpjA)
+1. [lab nr 8](https://colab.research.google.com/drive/102HAjpgmkAR8rt-dGQb9jyXjwbqRevWW?usp=sharing)
 
 1. [lab nr 9](https://i.ytimg.com/vi/cumlCf6kqyY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAsJs4G8EOq2QYLgZP_AHzUT5YpjA)
 
