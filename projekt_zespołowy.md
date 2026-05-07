@@ -130,7 +130,7 @@ Podział na dany podproblem i wypisanie przykładowych metod, które można zast
 
         - mamy obraz naturalny + parę referencyjnych wariantów krawędzi jako odniesienie ( nie ma jasnej poprawnej odpowiedzi )
 
-        - na podstawie obrazów powstałych po zastosowaniu filtrów/sieci neuronowej, można np. ustalić threshold jasności na istnienie krywanie krawędzi i porównać zgodność naszych krawędzi ze zbiorem referencyjnym: piksel-po-pikselu, binarnymi miarami jakości klasyfikacji - acc, precision, recall itd.
+        - na podstawie obrazów powstałych po zastosowaniu filtrów/sieci neuronowej, można np. ustalić threshold jasności na istnienie krawędzi i porównać zgodność naszych przewidzianych krawędzi ze zbiorem referencyjnym: piksel-po-pikselu, binarnymi miarami jakości klasyfikacji - acc, precision, recall itd.
 
 
 4. Segmentacja:
