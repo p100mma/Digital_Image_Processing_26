@@ -1,8 +1,8 @@
 ## Projekt zespołowy: wykorzystanie AI w Cyfrowym Przetwarzaniu Obrazów
 
-Wybrać JEDEN konkretny problem przetwarzania obrazów oraz porównać minimum dwie metody, gdzie conajmniej jedna z nich jest oparta o AI (a w zasadzie Deep Learning/ głębokie sieci neuronowe (DL)).
+Wybrać JEDEN konkretny problem/zagadnienie przetwarzania obrazów oraz porównać minimum dwie metody, gdzie conajmniej jedna z nich jest oparta o AI (a w zasadzie Deep Learning/ głębokie sieci neuronowe (DL)).
 
-Co do wyboru metod: przykładowa lista na końcu. Można wybrać coś z poza niej, po wcześniejszym uzgodnieniu.
+Co do wyboru problemów/zagadnień metod: przykładowa lista na końcu. Można wybrać coś z poza niej, po wcześniejszym uzgodnieniu.
 
 **Rozmiar grupy: 3-4 osoby**
 
